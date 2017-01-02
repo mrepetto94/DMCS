@@ -1,0 +1,6 @@
+#Prima lezione di Rlab
+#02/01/2017
+
+x=rnorm(100)
+y=rnorm(100)
+plot(x ,y ,xlab="La X" ,ylab="La Y" ,main="Sto cazzo")
